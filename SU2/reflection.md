@@ -1,0 +1,4 @@
+Reflection. 
+The hardest SU2 principle for me to apply was channel richness. It was tricky to decide which channel would be strong enough for the CEO. In the case study, the CIO used email, which is a lean channel, but the situation was urgent and unclear. A richer channel like a phone call would have made more sense.
+The original crisis communication failed because the form was full of jargon and the function of informing did not work. The CEO received the message but could not understand it. This is an example of semantic noise  the words were correct but the meaning was lost because the CEO has a degree in finance and not IT like the CIO and would not know how serious terms like “SQL injection are”.
+If this were real, I would change the escalation process. The CIO should call the CEO within 30 minutes instead of sending an email. A phone call  channel would have reduced confusion and help leaders act quickly in that crisis.
